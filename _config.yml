@@ -1,18 +1,28 @@
-analytics: {}
+name: Ewan Richardson Photographs
+favicon: null
+layout_spectrum: 0.971284
+typography_spectrum: 0.7318483332637697
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  brandStrength: 0.16833587433211505
+    - '#000000'
+    - '#a0a0a0'
+    - '#324459'
+    - '#727272'
+    - '#ffffff'
+  brandStrength: 1
   lightness: 0.18880013190209866
-  rhythmicContrast: 0.5041885040700436
   saturation: 0.9344651096034795
-cta: {}
-layout_spectrum: 0.971284
-name: Ewan Richardson Photographs
-opengraph: {}
+  rhythmicContrast: 0.5041885040700436
 purpose: []
-typography_spectrum: 0.7318483332637697
